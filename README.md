@@ -119,6 +119,7 @@ This project showcases the use of Arduino Uno and IR sensors for real-time commu
 
 📄 [View Main Code File](https://github.com/Diksha2220/Morse_Code_project/blob/main/morse%20code%20report.pdf)
 📊 [View Presentaion File](https://github.com/Diksha2220/Morse_Code_project/blob/main/Morse-Code%20.pptx)
+🗃️ [View Morse Code Sheet](https://github.com/Diksha2220/Morse_Code_project/blob/main/CodeSheet.jpg)
 
 <div align="center">
     <img src="https://github.com/Diksha2220/Media/blob/main/MCodeAtoZ.gif" alt="Caesar Cipher" width="500"/>
